@@ -1,0 +1,100 @@
+/*MAIN PAGE STYLES*/
+
+
+/*navbar styles*/
+.html_img{
+    display: inline-block; 
+    margin: -10px 0 0 10px;
+  }
+  .links{
+      display: inline-block;
+      color:  #8D81FF;
+      font-size: 26px;
+      font-weight: 700;
+      line-height: 31.2px;
+      text-align: left;
+      list-style: none;
+      text-decoration: none;
+      margin: 25px;
+  }
+  .links1{
+      color: #4E6FAE;
+      margin: 25px;
+      text-decoration: none;
+  }
+  /*other styles*/
+  .htmlimg{
+      margin: 0 194px 20px 194px;
+  }
+  .artnews{
+      font-size: 26px;
+      font-weight: 700;
+      line-height: 31.2px;
+      text-align: left;
+      color:#4E6FAE;
+      display: inline-block;
+      margin-left: 194px;
+  }
+  .line{
+      display: inline-block;
+      background-color: #5012D5;
+      width: 3px;
+      height: 24px;
+      margin: 0 30px 0 30px;
+  }
+  .artnews2{
+      font-size: 26px;
+      font-weight: 400;
+      line-height: 31.2px;
+      text-align: left;
+      color:#4E6FAE;
+      display: inline-block;
+      font-family: FiraGO;
+  }
+  /*article container styles*/
+  .artcont1{
+      display: inline-block;
+      height: 192px;
+      width: 500px;
+      background-color:#E7E7E7;
+      margin: 18px 20px 0 194px;
+  }
+  .head{
+      margin: 15px;
+      font-size: 20px;
+      font-weight: 400;
+      line-height: 24.14px;
+      text-align: left;
+  }
+  .artimg{
+      display: inline-block;
+      margin: 10px 10px 0 30px;
+  }
+  .randomp{
+    font-family: "Roboto Condensed", sans-serif;
+      display: inline-block;
+      font-size: 16px;
+      font-weight: 400;
+      text-align: left;
+      color: #7E8898;
+      margin: 10px 5px 0 40px;
+  }
+  .artcont2{
+      height: 192px;
+      width: 500px;
+      background-color:#E7E7E7;
+      display: inline-block;
+      margin: 10px 194px 0 20px;
+  }
+  /*footer logos of main page*/
+  .line2{
+      display: inline-block;
+      background-color: #5012D5;
+      width: 3px;
+      height: 50px;
+      margin: 0 30px 0 30px;
+  }
+  .ftlogos{
+      margin: 100px 0 0 195px;
+  }
+ 

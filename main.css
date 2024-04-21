@@ -1,0 +1,102 @@
+/*navbar styles*/
+.html_img{
+    display: inline-block; 
+    margin: -10px 0 0 10px;
+}
+.links{
+      display: inline-block;
+      color:  #8D81FF;
+      font-size: 26px;
+      font-weight: 700;
+      line-height: 31.2px;
+      text-align: left;
+      list-style: none;
+      text-decoration: none;
+      margin: 25px;
+}
+.links1{
+      color: #4E6FAE;
+      margin: 25px;
+      text-decoration: none;
+}
+  /*footer logos of main page*/
+.line2{
+    display: inline-block;
+    background-color: #5012D5;
+    width: 3px;
+    height: 50px;
+    margin: 36px 30px 0 30px;
+}
+.ftlogos{
+    margin: 100px 0 0 195px;
+}
+ /*ARTICLE PAGE STTLES*/
+ .date{
+    height: 40px;
+    width: 40px;
+    background-color:#5012D5;
+    margin-left: 30px;
+}
+.num{
+    color: #84FF81;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 400;
+}
+.month{
+    font-family: "BPG Nino Mkhedruli", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.8px;
+    text-align: left;
+    color:#8D81FF;
+    margin-left: 30px;
+}
+.hh3{
+    font-family: "BPG Nostalgia", sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+    color:#4E6FAE;
+    margin-left: 30px;
+}
+.sec_img1{
+    display: inline-block;
+    width: 447px;
+    height: 280px;
+    margin-left: 30px;
+}
+.article_txt1{
+    font-family: "BPG Square", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.2px;
+    color: #4E6FAE;
+    display: inline-block;
+    margin-left: -30px;
+}
+.arttxt{
+    display: inline-block;
+    margin-left: 60px;
+    width: 778px;
+}
+.article_txt2{
+    font-family: FiraGO;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.2px;
+    text-align: left;
+    color: #4E6FAE;
+    display: block;
+    margin-left: -30px;
+}
+.sec_img2{
+    display:block;
+    width: 447px;
+    height: 280px;
+    margin-left: 30px;
+}
+
+
+
